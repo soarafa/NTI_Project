@@ -94,7 +94,7 @@ This dataset contains sales transaction data from a supermarket chain with branc
    - *Description*: This chart shows the distribution of customer types, comparing the percentage of normal customers versus members. It helps identify the proportion of different customer categories.
 
  <p align="center">
-  <img src="powerBi/customer_type.png" alt="% Customer by Type"/>
+  <img src="IMG/customer_type.png" alt="% Customer by Type"/>
 </p>
 
 2. *% Customer by Gender*:
@@ -102,7 +102,7 @@ This dataset contains sales transaction data from a supermarket chain with branc
 
 
 <p align="center">
-  <img src="powerBi/customer_gender.png" alt="% Customer by Gender"/>
+  <img src="IMG/customer_gender.png" alt="% Customer by Gender"/>
 </p>
 
 
@@ -111,7 +111,7 @@ This dataset contains sales transaction data from a supermarket chain with branc
 
 
 <p align="center">
-  <img src="powerBi/customer_shift.png" alt="% Customer by shift"/>
+  <img src="IMG/customer_shift.png" alt="% Customer by shift"/>
 </p>
 
 
@@ -120,7 +120,7 @@ This dataset contains sales transaction data from a supermarket chain with branc
 
 
 <p align="center">
-  <img src="powerBi/payment_method.png" alt="% Payment_Method"/>
+  <img src="IMG/payment_method.png" alt="% Payment_Method"/>
 </p>
 
 
@@ -129,7 +129,7 @@ This dataset contains sales transaction data from a supermarket chain with branc
 
 
 <p align="center">
-  <img src="powerBi/customer_by_city.png" alt=" Dist_by_Citites"/>
+  <img src="IMG/customer_by_city.png" alt=" Dist_by_Citites"/>
 </p>
 
 
@@ -138,7 +138,7 @@ This dataset contains sales transaction data from a supermarket chain with branc
 
 
 <p align="center">
-  <img src="powerBi/customer_by_city.png" alt=" Dist_by_Citites"/>
+  <img src="IMG/customer_by_city.png" alt=" Dist_by_Citites"/>
 </p>
 
 
@@ -147,7 +147,7 @@ This dataset contains sales transaction data from a supermarket chain with branc
 
 
 <p align="center">
-  <img src="powerBi/peak_selling_hours.png" alt="Peak_Hours"/>
+  <img src="IMG/peak_selling_hours.png" alt="Peak_Hours"/>
 </p>
 
 
@@ -156,7 +156,7 @@ This dataset contains sales transaction data from a supermarket chain with branc
 
 
 <p align="center">
-  <img src="powerBi/rating_of_products.png" alt="Rating_Of_Prouct"/>
+  <img src="IMG/rating_of_products.png" alt="Rating_Of_Prouct"/>
 </p>
 
 
@@ -165,7 +165,7 @@ This dataset contains sales transaction data from a supermarket chain with branc
 
 
 <p align="center">
-  <img src="powerBi/dist_product_by_qty.png" alt=" Dist_Product_By_QtySold"/>
+  <img src="IMG/dist_product_by_qty.png" alt=" Dist_Product_By_QtySold"/>
 </p>
 
 
@@ -174,7 +174,7 @@ This dataset contains sales transaction data from a supermarket chain with branc
 
 
 <p align="center">
-  <img src="powerBi/sale_for_each_city.png" alt=" Sales_for_Each_City"/>
+  <img src="IMG/sale_for_each_city.png" alt=" Sales_for_Each_City"/>
 </p>
 
 
@@ -183,7 +183,7 @@ This dataset contains sales transaction data from a supermarket chain with branc
 
 
 <p align="center">
-  <img src="powerBi/product_line_across_shift.png" alt="Dist_Product_Across_Shift_Type"/>
+  <img src="IMG/product_line_across_shift.png" alt="Dist_Product_Across_Shift_Type"/>
 </p>
 
 
@@ -192,7 +192,7 @@ This dataset contains sales transaction data from a supermarket chain with branc
 
 
 <p align="center">
-  <img src="powerBi/avg_sales_by_hour.png" alt="Avg_Sales_Per_Hour"/>
+  <img src="IMG/avg_sales_by_hour.png" alt="Avg_Sales_Per_Hour"/>
 </p>
 
 
@@ -201,7 +201,7 @@ This dataset contains sales transaction data from a supermarket chain with branc
 
 
 <p align="center">
-  <img src="powerBi/sales_comparison.png" alt=" WeekDay_VS_WeekEnd"/>
+  <img src="IMG/sales_comparison.png" alt=" WeekDay_VS_WeekEnd"/>
 </p>
 
 
@@ -210,7 +210,7 @@ This dataset contains sales transaction data from a supermarket chain with branc
 
 
 <p align="center">
-  <img src="powerBi/total_sales_over_3_months.png" alt=" Sales_Over_3_Months"/>
+  <img src="IMG/total_sales_over_3_months.png" alt=" Sales_Over_3_Months"/>
 </p>
 
 
@@ -219,7 +219,7 @@ This dataset contains sales transaction data from a supermarket chain with branc
 
 
 <p align="center">
-  <img src="powerBi/sales_dist_by_days_of_week.png" alt=" Sales_By_Day"/>
+  <img src="IMG/sales_dist_by_days_of_week.png" alt=" Sales_By_Day"/>
 </p>
 
 ## Conclusion
