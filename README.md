@@ -222,6 +222,45 @@ This dataset contains sales transaction data from a supermarket chain with branc
   <img src="IMG/sales_dist_by_days_of_week.png" alt=" Sales_By_Day"/>
 </p>
 
+## Business Report 
+Data Storytelling for Infinity Market
+We approached this data analysis as if it belongs to a business we’ve recently launched three months ago, aiming to assess the sales and performance in this first quarter. The purpose of our analysis was to evaluate the current state of the business and devise strategic recommendations to improve our market performance.
+
+*First, we named our market "Infinity Market" and designed a logo for it. Following our data analysis, we uncovered several key insights that will help us shape our business strategy:
+
+1- *Low Customer Numbers:
+As a newly opened market, the number of customers is still low, likely due to our limited brand awareness.
+Recommendation:
+We suggest launching an online market to expand our customer base and increase our reach, making it easier for people to discover and shop with us.
+
+2- *Low Member Customer Ratio:
+We found that the number of member customers is significantly lower than that of normal customers, and we aim to increase membership.
+Recommendation:
+Offer unique perks for members, such as special discounts, early access to sales, and member-only events to attract more customers to sign up for membership.
+
+2- *Low Product Ratings for Specific Items:
+We noticed that certain products have lower customer ratings, and we still have a significant stock of these items.
+Recommendation:
+We will offer discounts on these products to clear the stock and consider switching to a new vendor to ensure we offer higher quality products moving forward.
+
+4- *Low Sales for Certain Product Lines:
+Certain product lines are underperforming in terms of sales.
+Recommendation:
+We will strategically place the top-selling products at the end of the aisles so that customers pass through the less popular product lines on their way in and out, increasing their exposure and potentially boosting sales.
+
+5- *High Sales on Saturdays:
+Our data shows that Saturdays have the highest sales compared to other weekdays, as customers typically shop for their weekly needs during the weekend.
+Recommendation:
+Ensure all products are fully stocked and sufficient staff are available on weekends to meet the higher demand.
+
+6- *Increased Sales During Holiday Seasons:
+There are certain times of the month when sales spike due to holidays and special occasions.
+Recommendation:
+We will plan special promotions and ensure ample stock of products related to the holiday to capture this additional demand.
+
+*Next Steps:
+After implementing these strategies, we will reassess our sales and performance in three months to evaluate the effectiveness of our recommendations and determine whether our strategies have led to significant improvements in customer satisfaction and overall sales.
+
 ## Conclusion
 The report highlights key insights into customer behavior and sales trends at Infinity Supermarket, with Naypyitaw being the top-performing city. Popular product categories include accessories, food, and beverages, and peak sales occur in the morning and evening. These findings offer strategic opportunities for improving customer satisfaction and boosting revenue.
 
